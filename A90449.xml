@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Pepys to the Lord Mayor and Court of Aldermen upon the present state of Christ-Hospital. To the Right Honourable Sir Humphry Edwin, Lord Mayor. : York-Buildings, July 11, 1698.</title>
+            <author>Pepys, Samuel, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90449</idno>
+            <idno type="STC">Wing P1451</idno>
+            <idno type="STC">ESTC R181650</idno>
+            <idno type="EEBO-CITATION">43078113</idno>
+            <idno type="OCLC">ocm 43078113</idno>
+            <idno type="VID">151637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151637)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2268:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Pepys to the Lord Mayor and Court of Aldermen upon the present state of Christ-Hospital. To the Right Honourable Sir Humphry Edwin, Lord Mayor. : York-Buildings, July 11, 1698.</title>
+                  <author>Pepys, Samuel, 1633-1703.</author>
+                  <author>Edwin, Humphrey, Sir, 1642-1707.</author>
+                  <author>City of London (England). Court of Aldermen.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christ's Hospital (London, England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151637:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <head>Mr. <hi>PEPYS</hi> to the Lord <hi>Mayor</hi> and <hi>Court</hi> of <hi>Aldermen</hi> upon the Preſent State of <hi>CHRIST-HOSPITAL.</hi>
+            </head>
+            <head>To the Right Honourable Sir <hi>Humphry Edwin,</hi> Lord <hi>Mayor.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>York-Buildings,</hi> 
+                  <date>
+                     <hi>July</hi> 11. 1698.</date>
+               </dateline>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>MY laſt to your <hi>Lordſhip</hi> is now more than three Months old. In which, led by your <hi>Lordſhips</hi> own Invitation, I choſe to lodge in your Hand the Execution of a Matter, to which I fully believe your <hi>Lordſhip</hi> did then as little deſign, as I did expect, or indeed the Matter it ſelf could be thought to bear, the <hi>unneceſſary delay</hi> of three Dayes. Such was the <hi>Account</hi> it brought you of the then <hi>wretched State</hi> of <hi>Chriſt-Hoſpital;</hi> and that under an hourly Declenſion towards <hi>worſe.</hi>
+            </p>
+            <p>The eſteem I have, <hi>My Lord,</hi> of the Sincerity of your Intentions, and the Aſſurances you were pleaſed at the ſame time, and by repeated Meſſages ſince, to give me thereof, will not permit me to charge this <hi>Loſs</hi> of <hi>Time</hi> (though greater in it ſelf than the whole Remain<g ref="char:EOLhyphen"/>der of your <hi>Lordſhips</hi> year of <hi>Mayoralty,</hi> will (I fear) ſuffice to make amends for) upon ought elſe, than ſome unforeſeen <hi>Difficul<g ref="char:EOLhyphen"/>ties</hi> in your attempting that <hi>Singly,</hi> which would call for the <hi>Strength,</hi> as it does indeed on the <hi>Duties,</hi> of <hi>More;</hi> I mean of the whole <hi>Body Corporate</hi> of the <hi>City,</hi> intruſted therewith by the <hi>Crown.</hi>
+            </p>
+            <p>Which <hi>Body</hi> not being (that I know) to be otherwiſe come-at by me, than through that of the <hi>Court</hi> of <hi>Aldermen;</hi> I have deter<g ref="char:EOLhyphen"/>mined upon diſcharging <hi>my Duty</hi> thereto in this <hi>Matter,</hi> by a Line or two at its next <hi>Meeting:</hi> When your <hi>Lordſhip</hi> with them, aſſiſted by my forementioned <hi>Paper</hi> of the 5th. of <hi>April,</hi> and the <hi>Report</hi> accompanying it of the 23d. of <hi>March,</hi> will, I doubt not, be fully en<g ref="char:EOLhyphen"/>abled both to judge and do what ſhall then appear reaſonable. I am with all Reſpect,</p>
+            <closer>
+               <salute>
+                  <hi>My</hi> LORD, </salute> 
+               <signed>
+                  <hi>Your</hi> Lordſhips <hi>moſt obedient Servant S. Pepys.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151637:2"/>
+            <!-- PDF PAGE 86 -->
+            <opener>
+               <salute>To the Right Honourable the Lord <hi>Mayor</hi> and <hi>Court</hi> of <hi>Aldermen.</hi>
+               </salute>
+               <dateline>
+                  <hi>York-Buildings,</hi> 
+                  <date>
+                     <hi>July,</hi> 12. 1698.</date>
+               </dateline>
+               <salute>My <hi>Lord,</hi> and <hi>Gentlemen,</hi>
+               </salute>
+            </opener>
+            <p>IT being from this <hi>Court</hi> only that I derive my relation as a Go<g ref="char:EOLhyphen"/>vernour to <hi>Chriſt-Hoſpital;</hi> 'tis to it alone I hold my ſelf firſt accountable for the <hi>Iſſue</hi> of my Endeavours under that <hi>Charge.</hi>
+            </p>
+            <p>Not that either <hi>You</hi> or <hi>my ſelf</hi> (could it have been avoided) had ever had the trouble of it in this <hi>Place:</hi> As having made it my many Years Labour, to have prevented or cur'd elſewhere (at the <hi>Hoſpital,</hi> I mean) thoſe <hi>Evils,</hi> which from my diſappointments <hi>there,</hi> I am now driven to <hi>expoſe</hi> to You <hi>here.</hi>
+            </p>
+            <p>What they are, I take leave to refer You for Information to two <hi>Papers</hi> of mine, of the 23d of <hi>March</hi> and 5th of <hi>April</hi> laſt; which (beſides many others lying with the <hi>Hoſpital</hi>) have for ſome <hi>Months</hi> been by me lodg'd, in the Hands of the Right Honourable and my Honoured Friend the <hi>Lord Mayor;</hi> ſhewing the preſent <hi>State</hi> of this Unhappy <hi>Houſe</hi> in its <hi>Revenue, Stock,</hi> and <hi>Debts;</hi> with another prepar'd at the ſame time, and ready (when <hi>ſeaſonable</hi>) to follow them, relating to the no leſs wretched <hi>Condition</hi> of it, in its <hi>Moral</hi> and <hi>Religious Oeconomy:</hi> Making together, <hi>ſuch an</hi> Inſtance <hi>of ROYAL and PRIVATE CHARITIES, conſecrated to</hi> Uſes <hi>the moſt</hi> Pious <hi>and</hi> Publick, <hi>ſo ſpent, ſo misapply'd, perverted, and unaccountably ſunk, within ſo little time, to ſo great a Value, and with ſo reproachful an Account to be given of any</hi> End <hi>of its</hi> Inſtitution <hi>anſwer'd, towards either</hi> God <hi>or</hi> Man; <hi>as I firmly believe, the</hi> Story <hi>of no one</hi> Houſe <hi>of</hi> Charity, <hi>in any</hi> Chriſtian Age <hi>or</hi> Place, <hi>can parallel.</hi>
+            </p>
+            <p>And becauſe I foreſee, that without immediate application from this <hi>Court,</hi> nothing herein can receive Amendment; But that on the contrary, the <hi>Support, Service,</hi> and <hi>Honour</hi> of this <hi>Religious Houſe</hi> muſt fall, and both its <hi>Miſcarriage</hi> and <hi>Debts</hi> become the <hi>City's</hi> to anſwer-for. And more than ſo; that for what concerns the <hi>Mathematick Foundation</hi> there, erected by my <hi>Royal Maſter King Charles</hi> II. for the <hi>Advancement</hi> of <hi>Na<g ref="char:EOLhyphen"/>vigation;</hi> my Perſonal Intereſt in the <hi>Proſperity</hi> of it, will oblige me to become an <hi>Aſſiſtant</hi> in the <hi>Enquiries,</hi> which in Right to His preſent <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> muſt be expected, into the <hi>Effects</hi> of what has been ſpent thereon; and the <hi>Ballance</hi> (to above 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr>) yet reſting to be accounted-for to Him. I thought it my <hi>Duty,</hi> while under my preſent Relation to this Your <hi>Ser<g ref="char:EOLhyphen"/>vice,</hi> to endeavour hereby, and by Your timely improving it, both to excite and enable You, to bring-about ſuch a <hi>Reformation</hi> herein of Your own, as may prevent the <hi>Conſequences</hi> of the <hi>want</hi> of it.</p>
+            <p>If not; it remains only, that I beg Your <hi>disburthening</hi> me of my <hi>Charge</hi>
+               <pb facs="tcp:151637:2"/>
+               <!-- PDF PAGE 86 -->herein; that I may be at liberty to purſue what may offer it ſelf of greater Efficacy towards the <hi>Recovery</hi> of this <hi>Foundation,</hi> and the <hi>Ad<g ref="char:EOLhyphen"/>vancement</hi> of the great <hi>End</hi> of it in our <hi>Navigation;</hi> under the nearer Influence and Protection of His <hi>Majeſty,</hi> in that of his own late <hi>Erection</hi> on the ſame <hi>Royal Deſign</hi> elſewhere. I am, with great Reſpect,</p>
+            <closer>
+               <salute>
+                  <hi>My</hi> Lord, <hi>and</hi> Gentlemen, </salute> 
+               <signed>Your moſt Faithful and moſt Obedient Servant S. Pepys.</signed>
+            </closer>
+         </div>
+         <div type="paper">
+            <pb facs="tcp:151637:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <head>upon the State of <hi>Chriſt-Hoſpital.</hi> Paper I. Apr. 29. 1699</head>
+            <div type="letter">
+               <pb facs="tcp:151637:3"/>
+               <!-- PDF PAGE 87 -->
+               <head>Mr. <hi>PEPYS</hi> to the Lord <hi>Mayor</hi> Upon the Preſent State of <hi>CHRIST-HOSPITAL.</hi>
+               </head>
+               <opener>
+                  <salute>To the Right Honourable Sir <hi>Humphry Edwin,</hi> Lord <hi>Mayor.</hi>
+                  </salute>
+                  <dateline>Tueſday, <date>
+                        <hi>Octob.</hi> 25. 1698.</date>
+                     <hi>York-Buildings.</hi>
+                  </dateline>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>ANother <hi>Three Months</hi> are now run-out, and the whole twelve of your <hi>Lordſhip's Great Office</hi> at the <hi>Eve</hi> of their <hi>Expiring;</hi> while our poor <hi>Orphans</hi> remain in the ſame reliefleſs <hi>State</hi> I left them in with your <hi>Lordſhip,</hi> in my <hi>Letter</hi> of the 5th. of <hi>April</hi> laſt. Wherein nothing more was propos'd of Trouble to your <hi>Lordſhip</hi> towards the remedying it (and that too of your <hi>Lordſhip</hi>'s own ſeeking) than the accompanying with your <hi>Authority</hi> my <hi>Report</hi> thereof to the <hi>Gentlemen</hi> of <hi>Chriſt-Hoſpital</hi> (to whom it was ſpecially di<g ref="char:EOLhyphen"/>rected) and to the <hi>Body-Corporate</hi> of the <hi>City,</hi> which, as I have heretofore noted, ſtands originally anſwerable for the ſame, to the <hi>Crown.</hi>
+               </p>
+               <p>In neither of which, though abundantly apply'd-to in both, has your <hi>Lordſhip</hi> thought fit to expreſs any regard to your <hi>
+                     <g ref="char:V">Ʋ</g>ndertaking</hi> to me. But ſo much the contrary; as to have arraign'd my late <hi>Me<g ref="char:EOLhyphen"/>morial</hi> to you concerning it (even after your <hi>Own</hi> and the <hi>Court of Aldermen</hi>'s ſolemn <hi>Thanks</hi> to me for it) as a <hi>Libel,</hi> and the only Oc<g ref="char:EOLhyphen"/>caſion of the <hi>No-Voice</hi> given your <hi>Lordſhip,</hi> at the late <hi>Parliament-Election</hi> for the <hi>City.</hi> And this deliver'd me from your <hi>Lordſhip,</hi> and my <hi>Lady Mayoreſs</hi> too, as your <hi>Joint-Meſſage,</hi> by the ſame Worthy <hi>Citi<g ref="char:EOLhyphen"/>zen,</hi> and Member both of your <hi>Common Council</hi> and <hi>Hoſpital,</hi> whom <hi>your ſelf</hi> was firſt pleaſed to employ to me, on thoſe Pious <hi>Errands</hi> I was miſled by, to the ſubmitting the <hi>Execution</hi> of this <hi>Matter</hi> ſingly to your <hi>Lordſhip.</hi>
+               </p>
+               <p>
+                  <hi>My Lord,</hi> I ſhall not offer at the asking-after, or even aiming at the Ground of this your ſo extraordinary <hi>Dealing,</hi> in a <hi>Cauſe</hi> of ſo <hi>Religious</hi> an <hi>Import;</hi> as leaving that to <hi>God,</hi> the <hi>City,</hi> and your <hi>Self,</hi> to be reckon'd-for. It ſhall ſuffice me, <hi>My Lord,</hi> to obſerve, That it has ariſen from neither of thoſe Cauſes, whereto the <hi>Court</hi> of <hi>Aldermen</hi> were led to joyn with your <hi>Lordſhip</hi> in the aſſigning it, and in the yet unper<g ref="char:EOLhyphen"/>form'd Undertaking for its <hi>Recovery;</hi> your <hi>Sickneſs,</hi> I mean, <hi>My Lord,</hi> and Sir <hi>Tho. Stamp</hi>'s <hi>Abſence.</hi>
+               </p>
+               <pb facs="tcp:151637:4"/>
+               <!-- PDF PAGE 88 -->
+            </div>
+            <div type="letter">
+               <head>A <hi>COPY</hi> of the foremention'd Letter of <hi>April</hi> the 5th.</head>
+               <opener>
+                  <dateline>
+                     <hi>York-Buildings,</hi> 
+                     <date>April 5th. 1698.</date>
+                  </dateline>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>AFter acknowledging with all thankfulneſs to your <hi>Lordſhip</hi> (but with no ſmall <hi>uneaſineſs</hi> to my <hi>ſelf,</hi> from my not being yet able to do it as I <hi>ought</hi>) for the double <hi>Honour</hi> of your <hi>Lordſhip</hi>'s late <hi>Viſits:</hi> I take this time for putting into <hi>your Hand</hi> (by your Servant Mr. <hi>Parry</hi>) my expected <hi>Report,</hi> upon the <hi>Subject</hi> you have been pleas'd to give me ſo much <hi>Evidence</hi> of your compaſſionate <hi>Concernment</hi> for; I mean, that of <hi>Chriſt-Hoſpital:</hi> clos'd at the <hi>Day</hi> I lately preſum'd to beſpeak of your <hi>Lordſhip</hi> (had it ſtood with your <hi>well-liking</hi>) for its Delivery in <hi>Court</hi> there. And this I take the liberty of giving your <hi>Lordſhip</hi> the ſingle trouble of;</p>
+               <p>
+                  <hi>Firſt,</hi> As by your <hi>Great Office</hi> you are, and ſtand originally declar'd to be, <hi>Chief Ruler</hi> and <hi>Governour</hi> (in Superiority to the <hi>Preſident</hi> him<g ref="char:EOLhyphen"/>ſelf) both of that and every other <hi>Hoſpital.</hi> In which <hi>Quality</hi> I ſub<g ref="char:EOLhyphen"/>mit it afreſh to your <hi>Lordſhip</hi> to conſider; How far you may yet think fit to concur with me, in the having it communicated to that <hi>Court:</hi> For the ſake of the many <hi>Gentlemen</hi> of the firſt Degree for <hi>Honour</hi> and <hi>Probity</hi> in that <hi>Body,</hi> wholly uninform'd in every <hi>Article</hi> of its <hi>Contents,</hi> and who (were they appris'd thereof) would as little bear being thought <hi>Aſſiſtants</hi> to the preſent <hi>Managements</hi> there, as <hi>my ſelf</hi> can, who have now from 14 <hi>Years</hi> paſt, been on that <hi>Score alone,</hi> avowedly withdrawn therefrom.</p>
+               <p>Nor do I repeat this, <hi>My Lord,</hi> from the leaſt <hi>View</hi> I can yet have of any <hi>Succeſs</hi> from it, after the <hi>Reception</hi> met-with there by my <hi>laſt.</hi> But in pure Diſcharge of what I hold it my <hi>Duty</hi> to do, towards that <hi>Houſe</hi> and <hi>Them,</hi> and to their late <hi>Reſolution</hi> in <hi>Court</hi> touching this <hi>Matter:</hi> Whatever their <hi>Returns</hi> may be for it, towards either <hi>Themſelves</hi> or <hi>Me.</hi>
+               </p>
+               <p>
+                  <hi>Next,</hi> with regard to your yet greater and nearer <hi>Intereſt</hi> in this <hi>Af<g ref="char:EOLhyphen"/>fair,</hi> as <hi>Head</hi> of that <hi>Body,</hi> the <hi>Mayor, Commonalty,</hi> and <hi>Citizens</hi> of <hi>London,</hi> incorporated by K. <hi>Edward</hi> VI, as <hi>Governours General</hi> of all his <hi>Hoſpitals.</hi> To whom <hi>We</hi> of the <hi>particular</hi> Houſes reſt account<g ref="char:EOLhyphen"/>able for what <hi>We</hi> do; as (with due deference) I take <hi>Them</hi> to be, by <hi>Solemn <hi>Indenture,</hi>
+                  </hi> to the <hi>King;</hi> and particularly,</p>
+               <p>
+                  <hi>That the Revenues of the ſaid Hoſpitals, over and above the ordi<g ref="char:EOLhyphen"/>nary Fees, Penſions, and Lawful Charges, going out of the ſame, without Fraud or Covin, ſhall be wholly beſtow'd, em<g ref="char:EOLhyphen"/>ploy'd, and go, to the Relief and Suſtentation of the Poor.</hi>
+               </p>
+               <p>And under this <hi>Character</hi> I am again to ſubmit to Your <hi>Lordſhip,</hi> the <hi>Conſideration</hi> and <hi>Choice</hi> of Your <hi>Time</hi> and <hi>Method,</hi> for bringing it before <hi>Your ſelf</hi> in Conjunction with that <hi>Body,</hi> for its further <hi>Diſpoſal,</hi> as in <hi>Your</hi> and <hi>Their Wiſdoms</hi> ſhall be found reaſonable.</p>
+               <pb facs="tcp:151637:4"/>
+               <!-- PDF PAGE 88 -->
+               <p>Allowing me <hi>only</hi> to add; That the late Unhappy <hi>Caſe</hi> of the <hi>Orphans</hi> of your <hi>Rich,</hi> ſeems yet too freſh (could it be prevented) to be ſo ſoon follow'd by <hi>One</hi> of ſo much a more <hi>moving ſound</hi> as <hi>This,</hi> of the <hi>Orphans</hi> of your <hi>Poor.</hi> The <hi>Point,</hi> of all others, wherein the <hi>Credit</hi> of this <hi>City</hi> has (from the immortal <hi>Performances</hi> of our <hi>Forefathers</hi>) been hitherto preſerv'd the moſt <hi>unſhaken:</hi> And therefore <hi>leſt fit</hi> for our preſent <hi>Violation;</hi> as bearing in it the <hi>Cauſe</hi> of <hi>dead <hi>Benefactors</hi>
+                  </hi> and <hi>living <hi>Infants,</hi>
+                  </hi> a-like <hi>incapable</hi> of being their own <hi>Advocates.</hi> And ſo much, <hi>My Lord,</hi> the more worthy of, as well as needing, your <hi>Lordſhip's Patronage,</hi> and the <hi>Benefit</hi> of your <hi>Authority</hi> (<hi>great</hi> indeed, but daily <hi>ſhort'ning</hi>) as in a <hi>Service,</hi> at once, acceptable to <hi>God,</hi> aidful to his <hi>Poor,</hi> profitable to the <hi>Publick,</hi> and of conſequence to the <hi>general <hi>Honour</hi>
+                  </hi> of the <hi>City,</hi> and eminently <hi>ſo</hi> in <hi>particular</hi> to your <hi>Lordſhip.</hi>
+               </p>
+               <p>Towards which, if <hi>ought</hi> further from me may be thought <hi>uſeful;</hi> your <hi>Lordſhip</hi> is fully <hi>Maſter</hi> both of <hi>Me</hi> and <hi>It.</hi> Whether as to the <hi>Whole,</hi> or that ſpecial <hi>Part</hi> of it, which reſpects the <hi>Mathematick Foundation,</hi> inſtituted by my <hi>Royal Maſter <hi>K. Charles</hi>
+                  </hi> II. for the <hi>Advancement</hi> of <hi>Navigation.</hi> Which I muſt not ſpare the declaring to your <hi>Lordſhip</hi> my being too particularly intereſted in, ever ſilently to ſee the <hi>Ruin</hi> of. And therefore muſt beg your <hi>Lordſhip</hi>'s and <hi>their</hi> making ſuch <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of it, in your <hi>Procedure</hi> and <hi>Adjuſtments</hi> with the <hi>Treaſurer</hi> and his <hi>Security</hi> in their approaching <hi>Diſcharge,</hi> as on the <hi>King</hi>'s Behalf and your <hi>Own</hi> ſhall appear expedient.</p>
+               <p>Nor yet <hi>(as before)</hi> would I be thought ſo far to reſtrain my <hi>Care</hi> herein to <hi>this <hi>Foundation,</hi>
+                  </hi> as to forget my <hi>general Duty</hi> to the <hi>Whole:</hi> By omitting to obſerve to you, That there lies no leſs <hi>Room</hi> open, for the Exerciſe of your <hi>Lordſhip</hi>'s and the <hi>City</hi>'s <hi>Authority, Truſt,</hi> and <hi>Paternal Regard</hi> to the Weal of that <hi>Whole,</hi> than of this particular <hi>Branch</hi> of it: By ſeeing; that the <hi>near</hi> 200,000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of our <hi>Poor</hi>'s <hi>Eſtate</hi> concern'd in that <hi>Gentleman's Account,</hi> (and never yet <hi>allow'd, look'd-into,</hi> or ſo much as regularly <hi>laid</hi> before a <hi>Court</hi> there) receive its <hi>Paſſage</hi> through <hi>yours,</hi> in ſuch manner as it <hi>ought,</hi> and We would it <hi>ſhould,</hi> were the <hi>Effects</hi> thereof all our <hi>own <hi>Fathers</hi> Gifts,</hi> and the <hi>Or<g ref="char:EOLhyphen"/>phans</hi> intereſted in them our <hi>own <hi>Children.</hi>
+                  </hi> As in a <hi>Civil,</hi> as well as <hi>Religious Conſtruction,</hi> they indeed are <hi>little leſs:</hi> Being moſt of them, the real wretched <hi>Orphans</hi> of our <hi>Fellow-Citizens.</hi>
+               </p>
+               <p>To <hi>Whom,</hi> as <hi>ſuch,</hi> I have ever moſt affectionately labour'd, and from this your <hi>Lordſhip</hi>'s and the <hi>City</hi>'s earneſt, though late, <hi>Interpoſi<g ref="char:EOLhyphen"/>tion</hi> on their Behalf, will not <hi>yet</hi> deſpair, of ſeeing <hi>my ſelf</hi> once again in a Condition of being <hi>Vſeful.</hi> Remaining,</p>
+               <closer>
+                  <salute>
+                     <hi>My</hi> LORD</salute> 
+                  <signed>
+                     <hi>Your</hi> Lordſhip<hi>'s moſt faithful and moſt obedient Servant, S. Pepys.</hi>
+                  </signed>
+               </closer>
+               <pb facs="tcp:151637:5"/>
+               <!-- PDF PAGE 89 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:151637:5"/>
+               <!-- PDF PAGE 89 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="paper">
+            <head>Mr. PEPYS, upon the State of <hi>Chriſt-Hoſpital.</hi> Paper II. Apr 29. 1699.</head>
+            <div type="letter">
+               <pb facs="tcp:151637:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 90 -->
+               <p>Nor am I ignorant, my <hi>Lord,</hi> how far your <hi>Self</hi> and <hi>Court</hi> have ex<g ref="char:EOLhyphen"/>preſt your <hi>Reſentments</hi> of the want of it from <hi>him:</hi> and on that <hi>Conſide<g ref="char:EOLhyphen"/>ration,</hi> think my ſelf under the greater Obligation of giving you this <hi>View</hi> thereof, in the <hi>Method</hi> I did my <hi>laſt.</hi> Wherein with what <hi>Tender<g ref="char:EOLhyphen"/>neſs</hi> I governed my-ſelf, towards both this <hi>Court</hi> and the <hi>Hoſpital</hi> con<g ref="char:EOLhyphen"/>cerned in it, will be beſt underſtood from the <hi>Encloſed,</hi> and what I might further appeal to from ſome of your own honour'd <hi>Members</hi> concerning it.</p>
+               <p>Which <hi>Paper,</hi> my <hi>Lord,</hi> I therefore thus humbly lodge in your <hi>Lord<g ref="char:EOLhyphen"/>ſhip's</hi> hands and <hi>Theirs,</hi> with two <hi>Others</hi> on the ſame <hi>Subject</hi> (one of older, the other of later <hi>Date</hi>) of equal <hi>Service</hi> to the illuſtrating of the ſame; And all ſubmitted to ſuch your <hi>Applications</hi> of them, as your <hi>Predeceſſor</hi> ſhall be found to have left you <hi>Opportunity</hi> for.</p>
+               <p>One thing only I have to <hi>prae-beſpeak</hi> concerning them. Namely, that the <hi>Earneſtneſs</hi> wherewith I may be thought delivering my ſelf therein, touching the <hi>Neceſſity</hi> of a <hi>Royal Viſitation;</hi> may not be interpreted to ariſe, from any <hi>Propenſion</hi> in me to the removing this <hi>Affair</hi> out of <hi>Your hands;</hi> or as pretending to any <hi>power</hi> or <hi>purpoſe</hi> of doing more to<g ref="char:EOLhyphen"/>wards it, than the bringing it within the <hi>Notice</hi> of that <hi>Miniſter,</hi> with whom the <hi>Crown</hi> hath lodged the determining of the <hi>Reaſonableneſs,</hi> of taking it into <hi>its Own.</hi> And ſo much, my <hi>Lord,</hi> I think my ſelf, in Faithfulneſs to <hi>It,</hi> to <hi>You,</hi> and to the <hi>Poor,</hi> indiſpenſably bound to do: And that, upon ſuch <hi>Convictions,</hi> of the <hi>Neceſſity</hi> of it, as the <hi>Piety</hi> of this <hi>Court</hi> (when truly <hi>enlighten'd</hi> in <hi>'em,</hi> and <hi>appriſed</hi> of what my <hi>Former</hi> and <hi>This</hi> ſhew you to lye yet <hi>unreported</hi> by me, of much harſer a <hi>Hearing</hi> than all that has been <hi>yet</hi> ſpoken of) will be but <hi>too well</hi> and, I fear, <hi>too late</hi> ſatisfied in the <hi>Reasons</hi> of.</p>
+               <closer>
+                  <signed>
+                     <hi>I am, My</hi> LORD, <hi>Your</hi> Lordſhip's <hi>moſt obedient Servant, S. Pepys.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
